@@ -1,5 +1,5 @@
 # simply
-simply is a programming language, designed as simple as possible for creating basic mathematical calculations
+simply is a programming language, designed as simple as possible for creating basic mathematical calculations using natural language
 
 
 ## demo - demo_counting_bottles.smy
